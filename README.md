@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Jalal-Aljhny/Frontend-Mentor-Shortly-URL-shortening-API-Challenge)
-- Live Site URL: [Add live site URL here](https://jalal-aljhny.github.io/Frontend-Mentor-Shortly-URL-shortening-API-Challenge/)
+- Solution URL: [solution URL](https://github.com/Jalal-Aljhny/Frontend-Mentor-Shortly-URL-shortening-API-Challenge)
+- Live Site URL: [live site URL](https://jalal-aljhny.github.io/Frontend-Mentor-Shortly-URL-shortening-API-Challenge/)
 
 ## My process
 
